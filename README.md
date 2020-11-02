@@ -1,3 +1,4 @@
+# Selling the source code of full api tik tok
 # TikTok Register
 
 Simple example of an account register with TikTok API.
